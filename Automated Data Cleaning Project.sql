@@ -25,7 +25,7 @@ BEGIN
 	  `Primary` text,
 	  `Zip_Code` bigint DEFAULT NULL,
 	  `Area_Code` int DEFAULT NULL,
-	  `ALand` int DEFAULT NULL,
+	  `ALand` bigint DEFAULT NULL,
 	  `AWater` int DEFAULT NULL,
 	  `Lat` double DEFAULT NULL,
 	  `Lon` double DEFAULT NULL,
